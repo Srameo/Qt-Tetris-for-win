@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>QT resourse/000.jpg</file>
+        <file>QT resourse/background.jpg</file>
+        <file>QT resourse/blue.jpg</file>
+        <file>QT resourse/dark_green.jpg</file>
+        <file>QT resourse/gray.jpg</file>
+        <file>QT resourse/green.jpg</file>
+        <file>QT resourse/purple.jpg</file>
+        <file>QT resourse/red.jpg</file>
+        <file>QT resourse/yellow.jpg</file>
+        <file>QT resourse/over_bg.jpg</file>
+        <file>QT resourse/help.jpg</file>
+        <file>QT resourse/gmover.png</file>
+        <file>QT resourse/rank_bgc.jpg</file>
+        <file>QT resourse/bgc.jpg</file>
+        <file>QT resourse/game_bg.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QT resourse/Tetris.png</file>
+        <file>QT resourse/bgc_img.png</file>
+    </qresource>
+</RCC>
