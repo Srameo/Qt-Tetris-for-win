@@ -1,4 +1,4 @@
-# Qt-Tetris-for-win
+# Qt
 My first QT project. It has a special double mode
 
 
