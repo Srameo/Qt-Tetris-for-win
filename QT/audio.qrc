@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>QT resourse/SEB_mino1.wav</file>
+        <file>QT resourse/SEB_mino2.wav</file>
+        <file>QT resourse/SEB_mino3.wav</file>
+        <file>QT resourse/SEB_mino4.wav</file>
+        <file>QT resourse/dead.wav</file>
+    </qresource>
+</RCC>
